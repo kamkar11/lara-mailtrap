@@ -1,5 +1,5 @@
 @component('mail::message')
-# Introduction
+# Hello World !!
 
 The body of your message.
 
